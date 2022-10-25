@@ -24,7 +24,7 @@ class AddProductScreen extends StatelessWidget {
                     cursorColor: const Color(0xffFFA05B),
                     keyboardType: TextInputType.name,
                     decoration: InputDecorations.authInputDecoration(
-                        hintText: "Ej: camiseta roja", labelText: "Nombre"),
+                        hintText: "Ej: camiseta verde", labelText: "Nombre"),
                   ),
                 ),
                 Padding(

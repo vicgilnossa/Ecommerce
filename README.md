@@ -1,6 +1,6 @@
 # ecommerce_cbd
 
-Proyecto personal en Flutter. App ecommerce, interfaz de administrador para una marca de CBD.
+Ecommerce app as an administrator interface for a CBD brand with theme management. It is connected through Firebase to the products and allows updating, viewing and uploading new ones.
 
 ## Getting Started
 

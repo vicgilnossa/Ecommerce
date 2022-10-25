@@ -1,6 +1,6 @@
 # ecommerce_cbd
 
-A new Flutter project.
+Proyecto personal en Flutter. App ecommerce, interfaz de administrador para una marca de CBD.
 
 ## Getting Started
 

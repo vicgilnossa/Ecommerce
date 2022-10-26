@@ -1,4 +1,4 @@
-# ecommerce_cbd
+# Making widgets for admins
 
 Ecommerce app as an administrator interface for a CBD brand with theme management. It is connected through Firebase to the products and allows updating, viewing and uploading new ones.
 
